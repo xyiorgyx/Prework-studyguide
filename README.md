@@ -1,9 +1,7 @@
-# Prework Study Guide Webpage
-## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- - The prework study guide was created for a convenient place to organize and add notes for bootcamp so that they are readily available and easily updated throughout the course. 
+-The prework study guide was created for a convenient place to organize and add notes for bootcamp so that they are readily available and easily updated throughout the course. 
 - This project was built to store and access notes with ease 
 - My assumption is this will be a project where all users of the program will collectively write notes on what they have learned for the program and to collectivly share and update throughout bootcamp.
 
